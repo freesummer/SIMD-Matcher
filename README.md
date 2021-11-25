@@ -42,8 +42,6 @@ go to /test/Benchmarks
 this script will run the SIMD-Matcher and GenMatcher on paper Fig. 3 (case 2742, and case 3892)
 ```
 
-The unit test framework is based on CTest.
-
 
 ## Benchmarking
 
