@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmatch.a  CMakeFiles/match.dir/basic_trie.cpp.o CMakeFiles/match.dir/basic_hot_tree.cpp.o CMakeFiles/match.dir/linear_arbitrary.cpp.o
+/usr/bin/ranlib libmatch.a
