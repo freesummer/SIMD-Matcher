@@ -37,7 +37,9 @@ In order to run the test suite, simply run the following
 command after building the program.
 
 ```
-make test
+go to /test/Benchmarks
+./run.sh
+this script will run the SIMD-Matcher and GenMatcher on paper Fig. 3 (case 2742, and case 3892)
 ```
 
 The unit test framework is based on CTest.
